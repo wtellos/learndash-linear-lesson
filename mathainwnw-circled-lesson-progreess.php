@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name:       CARDET Learndash plugin
- * Description:       Keeps all the custom functions/filters/actions/shortcodes
+ * Description:       Old LD - Linear progress lesson - Circled progress svg
  * Version:           1.2
  * Author:            CARDET
  * Author URI:        https://cardet.org
